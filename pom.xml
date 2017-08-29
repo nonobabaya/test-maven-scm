@@ -17,6 +17,10 @@
 	  <tag>HEAD</tag>
   </scm>
 
+	<modules>
+		<module>test-maven-scm-child</module>
+	</modules>
+
 
 	<distributionManagement>
 		<repository>
