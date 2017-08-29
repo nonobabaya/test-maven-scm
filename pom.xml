@@ -14,7 +14,7 @@
 	</properties>
 
 	<scm>
-		<developerConnection>scm:svn:https://github.com/nonobabaya/test-maven-scm.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/nonobabaya/test-maven-scm.git</developerConnection>
 	</scm>
 
 
