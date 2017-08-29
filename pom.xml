@@ -21,6 +21,7 @@
 
 	<modules>
 		<module>test-maven-scm-child</module>
+		<module>test-maven-scm-common</module>
 	</modules>
 
 
