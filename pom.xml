@@ -28,7 +28,7 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus-beijing-releases</id>
-			<name>版全家版本发布库hahahahah</name>
+			<name>版全家版本发布库</name>
 			<url>http://47.93.220.1:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
