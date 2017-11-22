@@ -28,12 +28,12 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus-beijing-releases</id>
-			<name>版全家版本发布库</name>
+			<name>版全家版本发布库hello</name>
 			<url>http://47.93.220.1:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus-beijing-snapshots</id>
-			<name>版全家版本快照库aaaaa</name>
+			<name>版全家版本快照库hellowordbbcccc</name>
 			<url>http://47.93.220.1:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 
