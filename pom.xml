@@ -7,7 +7,7 @@
 	    <packaging>pom</packaging>
 
 
-	<name>test-maven-scm</name>
+	<name>test-maven-scm-master</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
